@@ -1,4 +1,4 @@
-#VT_scan_URL.py
+#python3 -W ignore VT_scan_URL.py -u <IP>
 
 import requests
 import json
